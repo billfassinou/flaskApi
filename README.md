@@ -35,7 +35,7 @@ Les contributions sont les bienvenues ! Pour toute amélioration ou correction d
 
 ## Auteurs
 
-Ce projet a été développé par [Fassinou Bile](https://github.com/billfass).
+Ce projet a été développé par [Fassinou Bile](https://github.com/billfassinou).
 
 ## Licence
 
