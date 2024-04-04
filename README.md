@@ -15,7 +15,7 @@ Ce projet consiste en une API Flask déployée via Docker. L'API fournit diverse
 3. Lancez le conteneur Docker :
 
     ```bash
-    docker run -d -p 9000:9000 billfass/app-fassinou-bile:v1
+    docker run billfass/app-fassinou-bile:v1
     ```
 
 L'API Flask sera accessible à l'adresse suivante : `http://localhost:9000`.
