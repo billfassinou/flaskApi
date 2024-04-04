@@ -18,8 +18,6 @@ Ce projet consiste en une API Flask déployée via Docker. L'API fournit diverse
     docker run billfass/app-fassinou-bile:v1
     ```
 
-L'API Flask sera accessible à l'adresse suivante : `http://localhost:9000`.
-
 ## Endpoints
 
 - `/`: Affiche un message d'accueil.
